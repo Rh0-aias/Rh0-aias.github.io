@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junyu Tang / Ph.D. Candidate"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Junyu Tang"
 description              : &description "Ph.D. Candidate"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junyu Tang"
   avatar           : "profile.png"
-  bio              : "University of California, Riverside"
+  bio              : "UCR, Ph.D. Candidate"
   location         : "USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=39uWQpIAAAAJ"
