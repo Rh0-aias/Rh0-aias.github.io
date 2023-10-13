@@ -12,5 +12,5 @@ I am a fourth-year-graduate student in the Department of Physics & Astronomy at 
 
 *"Ad astra abyssosque!"*
 
-![](/images/spintronics.png)
+![](/images/Spintronics.jpeg)
 
