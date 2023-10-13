@@ -18,7 +18,7 @@ You can also contact me through :
 * UID: 103223206 (Honkai:star rail)
   
 *“TECH OTAKUS SAVE THE WORLD”*
-![image info](./image/mihoyo.png)
+![image info](./images/mihoyo.png)
 
 
 
