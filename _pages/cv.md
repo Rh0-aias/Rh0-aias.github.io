@@ -85,7 +85,3 @@ GENERAL PHYSICS LABORATORY 02LB (007) (Fall 2020)
 GENERAL PHYSICS LABORATORY 02LB (034) (Winter 2020)
 
 GENERAL PHYSICS LABORATORY 02LB (013) (Winter 2020)
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
