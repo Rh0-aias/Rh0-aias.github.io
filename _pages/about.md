@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Junyu Tang's personal website!"
+title: "Welcome to My Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
