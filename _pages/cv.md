@@ -22,7 +22,7 @@ Research experience
   * Spin-orbit torques in topological materials/Antiferromagnetic dynamics
   * Supervisor: Assistant Prof. Ran Cheng
  
-* Spring-2019: Research Assistant/Visiting student
+* Srping 2019: Research Assistant/Visiting student
   * Institute for Advanced Study, Shenzhen University
   * Supervisor: Prof. Xiaoguang Li
     
@@ -31,7 +31,7 @@ Research experience
   * First-principle DFT caculation on half-metal
   * Supervisor: Prof. Ping Cui and Prof. Zhenyu Zhang
 
-* Summer 2018: Summer Research
+* Summer 2018: Research Assistant
   * University of Western Australia, Perth
   * Ferromagnetic resonance and Spin hall effect in Cobalt
   * Supervisor: Prof. Mikhail Kostylev
