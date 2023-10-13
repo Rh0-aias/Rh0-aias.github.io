@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Physics, University of California, Riverside, USA, 2021-present
+* M.S. in Physics, University of California, Riverside, USA, 2020-2021
+* B.S. in Applied Physics, University of Science and Technology of China, Anhui, China, 2015-2019
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present: Research Assistant
+  * University of California, Riverside
+  * Spin-orbit torques in topological materials/Antiferromagnetic dynamics
+  * Supervisor: Assistant Prof. Ran Cheng
+ 
+* Spring-2019: Research Assistant/Visiting student
+  * Institute for Advanced Study, Shenzhen University
+  * Supervisor: Prof. Xiaoguang Li
+    
+* 2019-2020: Research Assistant
+  * The International Center for Quantum Design of Functional Materials (ICQD), USTC
+  * First-principle DFT caculation on half-metal
+  * Supervisor: Prof. Ping Cui and Prof. Zhenyu Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Summer Research
+  * University of Western Australia, Perth
+  * Ferromagnetic resonance and Spin hall effect in Cobalt
+  * Supervisor: Prof. Mikhail Kostylev
   
 Skills
 ======
