@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 **Lossless Spin-Orbit Torque in Antiferromagnetic Topological Insulator $\rm \mathbf{MnBi_2Te_4}$** **[[Link](https://arxiv.org/abs/2303.06181)]**
-![image](../images/sot.png)
 
 **Voltage-driven exchange resonance achieving %100 mechanical efficiency** **[[Link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.054418)]**
 
