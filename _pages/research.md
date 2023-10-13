@@ -4,11 +4,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 **Lossless Spin-Orbit Torque in Antiferromagnetic Topological Insulator $\rm \mathbf{MnBi_2Te_4}$** **[[Link](https://arxiv.org/abs/2303.06181)]**
+![image info](../images/sot.png)
+
 <p align="justify">
 We formulate and quantify the spin-orbit torque (SOT) in intrinsic antiferromagnetic topological insulator $\rm {MnBi_2Te_4}$ of a few septuple-layer thick, which exhibits conspicuous layer-resolved characteristics. Contrary to known current-induced torques, the SOT in insulating $\rm {MnBi_2Te_4}$ is driven by an electric field (or voltage). We further study the SOT-induced magnetic resonances, where in the tri-septuple-layer case we identify a peculiar exchange mode that is blind to microwaves but can be exclusively driven by the predicted SOT. As an inverse effect of the SOT, topological charge pumping generates an adiabatic current devoid of Joule heating, which occurs concomitantly with the SOT and gives rise to an overall magneto-reactance for $\rm {MnBi_2Te_4}$, enabling a lossless conversion of electric power into magnetic dynamics.
 </p>
