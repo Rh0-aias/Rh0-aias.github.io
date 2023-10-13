@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Feel free to contact me through"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## Feel free to contact me through
 
 * My email: jtang147@ucr.edu
 * My Office: WCH466
