@@ -35,6 +35,10 @@ Research experience
   * University of Western Australia, Perth
   * Ferromagnetic resonance and Spin hall effect in Cobalt
   * Supervisor: Prof. Mikhail Kostylev
+
+* Summer 2017: Summer School
+  * University of Cambridge & University of Oxford
+  * Magdalene College & Oriel college
   
 Skills
 ======
