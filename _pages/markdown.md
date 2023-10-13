@@ -13,7 +13,7 @@ redirect_from:
 
 You can also contact me through :  
 * UID: 102003115  (Genshin impact)
-* UID: 103223206 (Honkai:star rail)
+* UID: 103223206 (Honkai: Star Rail)
   
 *“TECH OTAKUS SAVE THE WORLD”*
 ![image info](../images/mihoyo.png)
