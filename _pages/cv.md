@@ -66,7 +66,7 @@ Kang L. Wang “Unidirectional Spin Hall Magnetoresistance in Antiferromagnetic 
 
 Sheng Yu, **Junyu Tang**, Yu Wang, Feixiang Xu, Xiaoguang Li, Xinzhong Wang. “Recent advances in two-dimensional ferromagnetism: strain-, doping-, structural-and electric field-engineering toward spintronic applications” Science and Technology of Advanced Materials, 2022.
 
-*More details can be found at My (Google Scholar)[https://scholar.google.com/citations?hl=en&user=39uWQpIAAAAJ]*
+*For more details: [My Google Scholar](https://scholar.google.com/citations?hl=en&user=39uWQpIAAAAJ)*
   
 Talks
 ======
