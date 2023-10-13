@@ -9,7 +9,7 @@ redirect_from:
 
 * My email: jtang147@ucr.edu
 * My Office: WCH466
-* My [Zhihu acount](https://www.zhihu.com/people/huang-fu-88-32)
+* My [Zhihu account](https://www.zhihu.com/people/huang-fu-88-32)
 
 You can also contact me through :  
 * UID: 102003115  (Genshin impact)
