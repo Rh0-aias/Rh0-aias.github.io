@@ -28,12 +28,12 @@ Research experience
     
 * 2019-2020: Research Assistant
   * The International Center for Quantum Design of Functional Materials (ICQD), USTC
-  * First-principle DFT caculation on half-metal
+  * First-principle DFT calculation on half-metal
   * Supervisor: Prof. Ping Cui and Prof. Zhenyu Zhang
 
 * Summer 2018: Research Assistant
   * University of Western Australia, Perth
-  * Ferromagnetic resonance and Spin hall effect in Cobalt
+  * Ferromagnetic resonance and spin Hall effect in Cobalt
   * Supervisor: Prof. Mikhail Kostylev
 
 * Summer 2017: Summer School
