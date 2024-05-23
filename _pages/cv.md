@@ -39,21 +39,6 @@ Research experience
 * Summer 2017: Summer School
   * University of Cambridge & University of Oxford
   * Magdalene College & Oriel college
-  
-Skills
-======
-* Programming:
-  * Python
-  * C++
-  * MATLAB
-  * Mathematica
-* Tools:
-  * LaTeX
-  * KWANT
-  * Quantum ESPRESSO
-* Languages:
-  * Chinese
-  * English
 
 Publications
 ======
@@ -92,3 +77,18 @@ Teaching Assistant, GENERAL PHYSICS LABORATORY 02LB (007) (Fall 2020)
 Teaching Assistant, GENERAL PHYSICS LABORATORY 02LB (034) (Winter 2020)
 
 Teaching Assistant, GENERAL PHYSICS LABORATORY 02LB (013) (Winter 2020)
+
+Skills
+======
+* Programming:
+  * Python
+  * C++
+  * MATLAB
+  * Mathematica
+* Tools:
+  * LaTeX
+  * KWANT
+  * Quantum ESPRESSO
+* Languages:
+  * Chinese
+  * English
